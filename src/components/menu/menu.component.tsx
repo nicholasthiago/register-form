@@ -36,8 +36,8 @@ const Menu = () => {
 		>
 			<Container>
 
-				<Link to={ getPath('/') } className={'!tw-mr-8'}>
-					<Navbar.Brand> {'Finance Tracker'} </Navbar.Brand>
+				<Link to={ getPath('/') } className={'!tw-mr-8 !tw-ml-4'}>
+					<Navbar.Brand> {'RTS Form'} </Navbar.Brand>
 				</Link>
 
 				<Navbar.Toggle aria-controls={"basic-navbar-nav"} />
